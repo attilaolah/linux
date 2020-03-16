@@ -7,7 +7,7 @@ These days I run my Linux environments in some sort of containers. These are
 mostly:
 
 - [Crostini] on [ChromeOS]
-- [Raspberry Pi] or other singleb-oard computers
+- [Raspberry Pi] or other single-board computers
 - Cloud VMs
 
 [Crostini]: https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md
